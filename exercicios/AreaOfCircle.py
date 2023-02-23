@@ -1,0 +1,5 @@
+print("escreva o raio do circulo")
+x=int(input())
+pi=float(3.14159)
+r=((x**2)*pi)
+print("A = ",r)
